@@ -8,7 +8,7 @@ Responsive Design: Optimized for different devices.
 ## Demo
 Check out the live demo here. [Text to Speech](https://iamvibhav.github.io/Text-to-Speech-Converter/)
 
-Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
